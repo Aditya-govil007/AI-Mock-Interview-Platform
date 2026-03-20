@@ -31,15 +31,16 @@ An AI-powered mock interview platform that simulates real interview scenarios an
 ---
 
 ## 📂 Project Structure
-|
-├── app/
-├── components/
-├── lib/
-├── utils/
-├── public/
-├── package.json
-├── next.config.mjs
-├── README.md
+│
+├── app/ # Next.js app directory (routes & pages)
+├── components/ # Reusable UI components
+├── lib/ # Utility libraries
+├── utils/ # Helper functions & services
+├── public/ # Static assets
+│
+├── package.json # Project dependencies
+├── next.config.mjs # Next.js configuration
+├── README.md # Project documentationREADME.md
 |
 
 ---
