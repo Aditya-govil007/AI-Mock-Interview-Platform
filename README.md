@@ -31,6 +31,7 @@ An AI-powered mock interview platform that simulates real interview scenarios an
 ---
 
 ## 📂 Project Structure
+|
 ├── app/
 ├── components/
 ├── lib/
@@ -39,6 +40,7 @@ An AI-powered mock interview platform that simulates real interview scenarios an
 ├── package.json
 ├── next.config.mjs
 ├── README.md
+|
 
 ---
 
